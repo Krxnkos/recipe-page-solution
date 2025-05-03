@@ -1,4 +1,6 @@
-# Frontend Mentor - Recipe page
+# Frontend Mentor - Recipe page - PUBLIC ARCHIVE
+
+This was created using the Frontend Mentor "Recipe Page" project. 
 
 ![Design preview for the Recipe page coding challenge](./design/desktop-preview.jpg)
 
